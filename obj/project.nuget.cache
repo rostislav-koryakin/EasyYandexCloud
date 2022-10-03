@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "w60E0n1i2ZOcpq8eEhcQxnAQewZFNwThXFIFsNnzDWe2lmi4KNinNFvemjUKmWhRSGpNybqWjKI8XN6NjWqJ+g==",
+  "success": true,
+  "projectFilePath": "C:\\Devs\\LocalRepositories\\EasyYandexCloud\\EasyYandexCloud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rostk\\.nuget\\packages\\google.protobuf\\3.19.1\\google.protobuf.3.19.1.nupkg.sha512",
+    "C:\\Users\\rostk\\.nuget\\packages\\grpc\\2.41.1\\grpc.2.41.1.nupkg.sha512",
+    "C:\\Users\\rostk\\.nuget\\packages\\grpc.core\\2.41.1\\grpc.core.2.41.1.nupkg.sha512",
+    "C:\\Users\\rostk\\.nuget\\packages\\grpc.core.api\\2.41.1\\grpc.core.api.2.41.1.nupkg.sha512",
+    "C:\\Users\\rostk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rostk\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\rostk\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\rostk\\.nuget\\packages\\yandex.cloud.protos\\1.2.0\\yandex.cloud.protos.1.2.0.nupkg.sha512",
+    "C:\\Users\\rostk\\.nuget\\packages\\yandex.cloud.sdk\\1.2.0\\yandex.cloud.sdk.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

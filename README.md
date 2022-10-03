@@ -1,0 +1,2 @@
+# EasyYandexCloud
+ 
